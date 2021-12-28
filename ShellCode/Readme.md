@@ -18,6 +18,8 @@
 
 - Chạy chương trình, ta cần đọc file `PhaPhaKhongCoDon.txt`
 
+  ![initial-exec.png](images/initial-exec.png)
+
 - Đầu tiên là đẩy tên file vào stack, mỗi lần như thể thỉ tối đa 8 bytes nên phải thực hiện 3 lần, lúc này `PhaPhaKhongCoDon.txt` nằm tại `rsp`
 
   ```python
