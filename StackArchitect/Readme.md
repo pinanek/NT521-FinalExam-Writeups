@@ -97,7 +97,7 @@
 
   ![pop-ret-address.png](images/pop-ret-address.png)
 
-- Như vậy, có được code exploit [StackArchitect.py](StackArchitect.py)
+- Như vậy, có được code exploit: [StackArchitect.py](StackArchitect.py)
 
   ```python
   from pwn import *
